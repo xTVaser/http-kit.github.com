@@ -4,4 +4,4 @@ url: http://http-kit.org
 markdown: kramdown
 highlighter: pygments
 permalink: /:title.html
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
